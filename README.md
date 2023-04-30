@@ -51,8 +51,8 @@ pt-bf:
     #暂不支持https,尽量使用IP+端口的配置方式。
     - host: 88.222.222.222
       port: 8080
-      username: li2016131245
-      password: zxc123..
+      username: ptbfusername
+      password: ptbfpassword
     #暂不支持https,尽量使用IP+端口的配置方式。
     - host: 104.222.222.222
       port: 8080
