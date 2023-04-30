@@ -1,4 +1,4 @@
-# PT-BF：qBittorrent 下载自动拆包工具试用教程
+# PT-BF：qBittorrent 下载自动拆包工具试用教程（5.8之前有效）
 
 ### 配置条件：
 
