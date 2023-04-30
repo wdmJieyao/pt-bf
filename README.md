@@ -83,7 +83,7 @@ pt-bf:
 
 `cd`
 
-`nohup java -jar -Dfile.encoding=utf-8 -Dspring.profiles.active=test PT-BF-0.0.1-SNAPSHOT.jar  >/tmp/null 2>&1 &`
+`nohup java -jar -Dfile.encoding=utf-8 -Dspring.profiles.active=test {最新版jar包名称}  >/tmp/null 2>&1 &`
 
 查看日志
 
