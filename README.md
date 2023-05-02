@@ -1,4 +1,4 @@
-# PT-BF：qBittorrent 下载自动拆包工具试用教程
+# PT-BF：qBittorrent 下载自动拆包工具试用教程(看心情维护)
 
 ### 配置条件：
 
