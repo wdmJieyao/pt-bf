@@ -57,6 +57,8 @@ pt-bf:
   needBFSizeMinRatio: 0.4
   #拆包后文件最大大小比率 50*(1+0.4) = 70GB 若拆包后大于该值则触发补偿机制，直至拆包文件小于最大值
   needBFSizeMaxRatio: 0.1
+  #拆包比例 拆包后文件大小 = 原始文件大小* 拆包比例
+  bfFileOriginalRatio: 0.3
   qbInfoList:
     #暂不支持https,尽量使用IP+端口的配置方式。
     - host: 88.222.222.222
